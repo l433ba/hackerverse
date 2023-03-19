@@ -1,15 +1,15 @@
 <h1 align="center">
-    👹 HACKERVERSE 😎
+     HACKERVERSE 
 </h1>
 
 <p align="center">
     ✨ Welcome to HACKERVERSE ✨ <br />
-    This game embarks the common phishing traps used by the hacker 👹 and spreads awareness in users  to keep themselves safe in this cyber world
+    This game embarks the common phishing traps used by the hacker and spreads awareness in users  to keep themselves safe in this cyber world
 </p>
 
 ## 📌 Story of the project :
 
-The story of the project is pretty interesting. There's an anonymous hacker out there and his next target is you 😱. He performs his tasks (attacks) on you and you are presented with three options. If you choose the correct one then you can make the hacker loose points 🙌 . Othervise you end up being a victim.
+The story of the project is pretty interesting. There's an anonymous hacker out there and his next target is you . He performs his tasks (attacks) on you and you are presented with three options. If you choose the correct one then you can make the hacker loose points  . Othervise you end up being a victim.
 
 ## 📌 Demo Images :
 
@@ -20,12 +20,12 @@ The story of the project is pretty interesting. There's an anonymous hacker out 
     <img src="/assets/img/documentation/1.png" height="200px">
   </div>
   <div class="column">
-    <img src="/assets/img/documentation/2.png" height="200px" >
+    <img src="/assets/img/documentation/2.png" height="178px" >
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="/assets/img/documentation/3.png" height="200px">
+    <img src="/assets/img/documentation/3.png" height="132px">
   </div>
 
 
