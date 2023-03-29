@@ -19,12 +19,12 @@ The story of the project is pretty interesting. There's an anonymous hacker out 
     <img src="/assets/img/documentation/8.png" height="200px">
   </div>
   <div class="column">
-    <img src="/assets/img/documentation/9.png" height="178px" >
+    <img src="/assets/img/documentation/9.png" height="200px" >
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="/assets/img/documentation/10.png" height="132px">
+    <img src="/assets/img/documentation/10.png" height="219px">
   </div>
   
 ## 📌 Demo Images :
