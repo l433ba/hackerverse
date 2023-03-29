@@ -11,7 +11,7 @@
 
 The story of the project is pretty interesting. There's an anonymous hacker out there and his next target is you . He performs his tasks (attacks) on you and you are presented with three options. If you choose the correct one then you can make the hacker loose points  . Othervise you end up being a victim.
 
-## 🚩 Azure Tecnology Used :
+## 📌 Azure Tecnology Used :
 <h3> Azure Static Web Services </h3>
 
 <div class="row">
