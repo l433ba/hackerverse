@@ -11,6 +11,22 @@
 
 The story of the project is pretty interesting. There's an anonymous hacker out there and his next target is you . He performs his tasks (attacks) on you and you are presented with three options. If you choose the correct one then you can make the hacker loose points  . Othervise you end up being a victim.
 
+## 🚩 Azure Tecnology Used :
+<h3> Azure Static Web Services </h3>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/documentation/8.png" height="200px">
+  </div>
+  <div class="column">
+    <img src="/assets/img/documentation/9.png" height="178px" >
+  </div>
+</div>
+<div class="row">
+  <div class="column">
+    <img src="/assets/img/documentation/10.png" height="132px">
+  </div>
+  
 ## 📌 Demo Images :
 
 ## 🚩 Landing Page :
@@ -63,3 +79,4 @@ The story of the project is pretty interesting. There's an anonymous hacker out 
 1. HTML 5
 2. CSS 3
 3. Vanilla JS
+
